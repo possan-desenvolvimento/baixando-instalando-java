@@ -1,4 +1,4 @@
-# Este repositório, tem como objetivo, ensinar como baixar e instalar o Java no seu pc, lembrando que eu estou usando a versão do Java 17, mais, você pode usar a versão que preferir. 
+# Este repositório tem como objetivo guiar você na instalação do Java, especificamente a versão 17, mas com instruções que podem ser adaptadas para outras versões. O foco é fornecer um passo a passo para facilitar o processo.
 
 --- 
 
