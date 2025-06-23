@@ -4,9 +4,10 @@
 
 # 🔽 Baixando o Java: 
   1. Acesse o site oficial da Oracle para baixar o instalador:
+     
     👉 Baixar Java 1
 
-  2. Após o download, execute o instalador .exe e siga os passos da instalação até a conclusão.
+  3. Após o download, execute o instalador .exe e siga os passos da instalação até a conclusão.
 
 ---
 
