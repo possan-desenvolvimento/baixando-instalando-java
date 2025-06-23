@@ -5,7 +5,7 @@
 # 🔽 Baixando o Java: 
   1. Acesse o site oficial da Oracle para baixar o instalador:
      
-    👉 Baixar Java 1
+    👉 [Baixar Java 17](https://download.oracle.com/java/17/archive/jdk-17.0.12_windows-x64_bin.exe)
 
   3. Após o download, execute o instalador .exe e siga os passos da instalação até a conclusão.
 
